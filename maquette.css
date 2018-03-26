@@ -1,0 +1,285 @@
+.blé{
+	background-image: url("image/blé (2).png");
+	color: white;
+	height: 800px
+}
+.noirtrans{
+	background-color: rgba(0, 0, 0, 0.4);
+	height: 100px
+}
+h1{
+	padding-left: 15%;
+	padding-top: 20px;
+	float: left;
+}
+.menu{
+	float: right;
+	padding-right: 15%;
+	padding-top: 40px;
+}
+.menu span:hover{
+	color: #4bcaff;
+	border: 1px #4bcaff solid;
+}
+.services{
+	background-color: #4bcaff;
+	color: white;
+	height: 350px;
+	margin-top: -20px;
+	/* padding-left: 15%; */
+	padding-right: 15%
+}
+.tabservice{
+	padding-left: 15%
+}
+h2{
+	padding-top: 3%;
+	padding-left: 15%;
+}
+.folio{
+	height: 800px;
+	margin-top: -20px
+}
+#pf{
+	margin-top: -40px;
+	padding-right: 15%;
+	margin-left: 700px
+}
+#pf span:hover{
+	color: #4bcaff;
+	border: 1px #4bcaff solid;
+}
+.selec1{
+	display: flex;
+	margin: auto;
+	margin-right: 10%;
+}
+.art1
+{
+	text-align: center;
+	font-size: 3em;
+	background-color : rgba(0, 0, 0, 0.4);
+	margin-top: 13%;
+	margin-left: 22%;
+	margin-right: 22%;
+}
+.art2
+{
+	text-align: center;
+	font-size: 3em;
+	background-color : rgba(0, 0, 0, 0.4);
+	margin-left: 17%;
+	margin-top: 0.5%;
+	margin-right: 17%;
+}
+.selec2
+{
+
+	display: flex;
+}
+.portfolio
+{
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	margin-top: 5% ;
+}
+.video
+{
+	margin-top: -50px;
+	padding-right: 15%;
+	float: right;
+	height: 300px;
+	width: 500px;
+	margin-left: 10px
+}
+.just{
+	background-color: #515f67;
+	color: white;
+	height: 400px;
+	margin-top: -20px
+}
+.just1{
+	padding-left: 15%;
+}
+.VIS{
+	border: 2px black solid;
+	text-align: center;
+	font-size: 1.5em;
+	color: black;
+	background-color: #515f67;
+	height: 30px;
+	width: 300px;
+	margin-left : 15%;
+}
+.twitter{
+	background-color: #4bcaff;
+	color: white;
+	height: 220px;
+	margin-top: -20px
+}
+.iconetwi
+{
+	float: right;
+	margin-right: 15%;
+	margin-top: -40px
+}
+.joe{
+	height: 400px;
+	background-image: url("image/photo.png");
+	color: white;
+	margin-top: -20px
+}
+.icone{
+	display: inline-block;
+}
+.p1{
+	padding-left: 15%
+}
+.p2{
+	padding-left: 15%;
+	margin-right: 55%;
+}
+.p3{
+	margin-right: 15%
+}
+.test{
+	height: 250px;
+	margin-top: -20px
+}
+.ww{
+	margin-left: 15%;
+	color: #4bcaff;
+	font-size: 2em
+}
+.app{
+	margin-left: 15%;
+	margin-right: 15%
+}
+.paranthese{
+	float: right;
+	margin-right: 15%
+}
+.cont,.message{
+	padding-left: 15%;
+}
+input{
+	resize: none;
+	margin-left: 10%;
+	background-color: transparent;
+	border: 3px white solid
+}
+.name, .mail{
+	height: 70px;
+	width: 500px;
+	margin-left: 15%;
+}
+.message{
+	height: 300px;
+	width: 700px;
+	margin-left: 15%
+}
+
+.souligné
+{
+	text-decoration: underline;
+}
+.color
+{
+	color: #4bcaff
+}
+.lien:hover, .lien1:hover, .lien2:hover
+{
+	color: #4bcaff;
+	border: 1px #4bcaff solid;
+}
+.lien
+{
+	margin-left: 20%;
+}
+.lien1
+{
+	margin-left: 20%;
+}
+
+
+.who
+{
+	border: 1px white solid;
+}
+.fum
+{
+	height: 800px;
+	background-image: url("image/15.png");
+	color: white
+}
+/*textarea
+{
+	resize: none;
+	opacity: 0.5;
+	border: 4px black solid;
+	margin-left: 10%
+}*/
+footer{
+	height: 100px;
+	background-color: #515f67;
+	color: white;
+}
+.pied{
+	margin: auto;
+	display: flex;
+	padding-top: 2.5%;
+	padding-left: 15%;
+}
+
+.MES{
+	background-color: #4bcaff;
+	color: white;
+	height: 50px;
+	width: 300px;
+	margin-left: 15%;
+	margin-top: 0.5%
+}
+.conpart1{
+	width: 40%;
+	margin-top: -150px;
+	margin-bottom: 5%;
+	margin-left: 55%;
+}
+.conpart1 div{
+	margin-right: 15%
+}
+a{
+	text-decoration: none;
+	color : white
+}
+.a1
+{
+	text-decoration: none;
+	color: black
+}
+.princ
+{
+
+}
+.pudding
+{
+	margin-left: 50%;
+	margin-right: 10%;
+	margin-top: -120px
+}
+.titretwi
+{
+	width: 40%;
+
+}
+body
+{
+	font-family: arial
+}
+li
+{
+	display: inline-block;
+	margin: auto;
+
+}
